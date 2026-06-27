@@ -2,7 +2,7 @@
 
 Hi, I'm Bridget.
 
-I'm an aspiring Business & Program Analyst with a background in finance, bookkeeping, healthcare, operations, and process improvement. I'm passionate about understanding how organizations work, uncovering opportunities for improvement, and using data to support better decisions.
+I'm an aspiring Business & Program Analyst with a background in finance, bookkeeping, healthcare, operations, and process improvement. I enjoy analyzing how organizations work, identifying opportunities for improvement, and using data to support better decisions.
 
 I believe organizations work best when systems are thoughtfully designed to help people succeed.
 
