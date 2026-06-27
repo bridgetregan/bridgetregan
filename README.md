@@ -1,16 +1,26 @@
-## Hi there 👋
+# Welcome to The Observatory 🏛️
 
-<!--
-**bridgetregan/bridgetregan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Bridget.
 
-Here are some ideas to get you started:
+I'm an aspiring Business & Program Analyst with a background in finance, bookkeeping, healthcare, operations, and process improvement. I'm passionate about understanding how organizations work, uncovering opportunities for improvement, and using data to support better decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe organizations work best when systems are thoughtfully designed to help people succeed.
+
+This GitHub documents my journey toward becoming an exceptional analyst through real-world projects, research, and continuous learning.
+
+## Current Focus
+
+* 📊 Data Analytics
+* 🏛️ Organizational Analysis
+* 🔄 Process Improvement
+* 📈 Business Intelligence
+* 💡 Systems Thinking
+
+## Current Projects
+
+* Maternal Health Analytics
+* Financial Performance Dashboard
+* SQL Learning Portfolio
+* Process Improvement Case Studies
+
+> **Improving systems. Empowering people.**
