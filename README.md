@@ -25,13 +25,12 @@ This GitHub showcases my work in data analytics, organizational analysis, and pr
 
 ## Current Projects
 
-📊 Maternal Health Outcomes Analysis
-📈 Financial Performance Dashboard
-🗄️ SQL Learning Portfolio
-🔄 Process Improvement Case Studies
-📉 Customer Experience Analytics
-🏛️ The Observatory
-
--A career research project exploring organizational analysis, competency mapping, and evidence-based professional development through systems thinking and continuous learning.
+*📊 Maternal Health Outcomes Analysis
+*📈 Financial Performance Dashboard
+*🗄️ SQL Learning Portfolio
+*🔄 Process Improvement Case Studies
+*📉 Customer Experience Analytics
+*🏛️ The Observatory
+*-A career research project exploring organizational analysis, competency mapping, and evidence-based professional development through systems thinking and continuous learning.
 
 > **Improving systems. Empowering people.**
